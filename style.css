@@ -278,6 +278,20 @@ footer a:hover {
   }
 }
 
+@media screen and (min-width: 732px) and (max-width: 1018px) {
+  .main__card__section__text {
+    padding: 2rem 3rem;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .main__card__section__text {
+    padding: 2rem 8rem;
+    text-align: left;
+    justify-content: center;
+  }
+}
+
 @media screen and (min-width: 731px) {
   header {
     margin: 2rem 4rem;
@@ -332,17 +346,11 @@ footer a:hover {
     padding: 2rem 1rem;
   }
 
-  .main__card__section__text {
-    padding: 2rem 2rem;
-    text-align: left;
-    justify-content: center;
-  }
-
   .main__card__section__text h2 {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
   }
   .main__card__section__text p {
-    font-size: 1.1rem;
+    font-size: 1rem;
   }
 
   .main__content .reverse-card {
