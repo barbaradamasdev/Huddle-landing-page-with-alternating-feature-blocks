@@ -4,7 +4,7 @@
 
 ## 🔗 Link
 
-- [Live Version](https://barbaradamasdev.github.io/Huddle-landing-page-with-alternating-feature-blocks)
+- [Live Version](https://cheerful-stroopwafel-9e2006.netlify.app/)
 
 ## 😄 Hello!
 
