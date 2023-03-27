@@ -20,7 +20,7 @@ The ideia of the challenge is to reproduce a close as possible to the proposed d
 - HTML
 - CSS
 - Flexbox
-- Basic form
+- BEM metodologie
 - Responsive layout
 - Visual Studio Code
 
